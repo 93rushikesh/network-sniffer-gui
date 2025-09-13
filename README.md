@@ -52,6 +52,7 @@ cd codealpha-network-sniffer
 
 # Step 3: Install dependencies
 pip install scapy
+# Step 4: Run
 🚀 Usage
 ```
 ---
