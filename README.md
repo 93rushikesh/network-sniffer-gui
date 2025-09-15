@@ -20,9 +20,7 @@
 
 ## 🛠️ Installation
 **Clone the Repository**
-```
   https://github.com/93rushikesh/network-sniffer-gui/blob/main/network-sniffer-gui.py
-```
  **Run**
 ```
 ---
