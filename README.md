@@ -1,11 +1,11 @@
-# 🚀 CodeAlpha Network Sniffer
+# 🚀 Network Sniffer
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 ![Tkinter](https://img.shields.io/badge/Tkinter-GUI-orange)
 ![Scapy](https://img.shields.io/badge/Scapy-Networking-green)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 
-**CodeAlpha Network Sniffer** is a simple yet powerful tool to capture and analyze network traffic in real-time. Perfect for learning, testing, and network monitoring! 😎💻
+**Network Sniffer** is a simple yet powerful tool to capture and analyze network traffic in real-time. Perfect for learning, testing, and network monitoring! 😎💻
 
 ---
 
@@ -19,16 +19,8 @@
 ---
 
 ## 🛠️ Installation
+**Clone the Repository**
 
-```bash
-# Step 1: Clone this repository
-git clone https://github.com/your-username/codealpha-network-sniffer.git
-
-# Step 2: Navigate to the project directory
-cd codealpha-network-sniffer
-
-# Step 3: Install dependencies
-pip install scapy
 
 ```
 ---
@@ -41,19 +33,6 @@ pip install scapy
 
 ---
 
-## 🛠️ Installation
-
-```bash
-# Step 1: Clone this repository
-git clone https://github.com/your-username/codealpha-network-sniffer.git
-
-# Step 2: Navigate to the project directory
-cd codealpha-network-sniffer
-
-# Step 3: Install dependencies
-pip install scapy
-# Step 4: Run
-🚀 Usage
 ```
 ---
 python sniffer.py
